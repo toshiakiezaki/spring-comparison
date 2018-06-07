@@ -1,0 +1,95 @@
+# Logs data
+logs
+npm-debug.log*
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Android settings
+gen/
+build/
+proguard/
+captures/
+local.properties
+.gradle/
+.navigation/
+*.apk
+*.ap_
+*.dex
+
+# Eclipse settings
+bin/
+.settings/
+.metadata/
+.project
+.classpath
+.externalToolBuilders
+.tern-project
+.sonar
+.jasper
+.pmd
+.nbactions.xml
+
+# Java settings
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven settings
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Node settings
+build/Release
+node_modules/
+bower_components/
+lib-cov
+coverage
+package-lock.json
+proxy.json
+yarn.lock
+main.js
+.grunt
+.lock-wscript
+.npm
+.node_repl_history
+
+# Xcode settings
+build/
+DerivedData
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.hmap
+*.ipa
+timeline.xctimeline
+playground.xcworkspace
+.build/
+fastlane/report.xml
+fastlane/screenshots
+
+# Operational System files
+.DS_Store
